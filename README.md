@@ -1,4 +1,4 @@
-# Repository to Reproduce Issues with Async Component as Children and asChild Causing an Error
+# Repository to Reproduce Error with Async Component Used as asChild in Menu.Item Component
 
 ## How to Reproduce
 
